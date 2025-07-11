@@ -1,0 +1,14 @@
+C:\Users\Jatin Dhiman\OneDrive\Desktop\SplitwiseClone\bin\Debug\net8.0\SplitwiseClone.exe
+C:\Users\Jatin Dhiman\OneDrive\Desktop\SplitwiseClone\bin\Debug\net8.0\SplitwiseClone.deps.json
+C:\Users\Jatin Dhiman\OneDrive\Desktop\SplitwiseClone\bin\Debug\net8.0\SplitwiseClone.runtimeconfig.json
+C:\Users\Jatin Dhiman\OneDrive\Desktop\SplitwiseClone\bin\Debug\net8.0\SplitwiseClone.dll
+C:\Users\Jatin Dhiman\OneDrive\Desktop\SplitwiseClone\bin\Debug\net8.0\SplitwiseClone.pdb
+C:\Users\Jatin Dhiman\OneDrive\Desktop\SplitwiseClone\obj\Debug\net8.0\SplitwiseClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jatin Dhiman\OneDrive\Desktop\SplitwiseClone\obj\Debug\net8.0\SplitwiseClone.AssemblyInfoInputs.cache
+C:\Users\Jatin Dhiman\OneDrive\Desktop\SplitwiseClone\obj\Debug\net8.0\SplitwiseClone.AssemblyInfo.cs
+C:\Users\Jatin Dhiman\OneDrive\Desktop\SplitwiseClone\obj\Debug\net8.0\SplitwiseClone.csproj.CoreCompileInputs.cache
+C:\Users\Jatin Dhiman\OneDrive\Desktop\SplitwiseClone\obj\Debug\net8.0\SplitwiseClone.dll
+C:\Users\Jatin Dhiman\OneDrive\Desktop\SplitwiseClone\obj\Debug\net8.0\refint\SplitwiseClone.dll
+C:\Users\Jatin Dhiman\OneDrive\Desktop\SplitwiseClone\obj\Debug\net8.0\SplitwiseClone.pdb
+C:\Users\Jatin Dhiman\OneDrive\Desktop\SplitwiseClone\obj\Debug\net8.0\SplitwiseClone.genruntimeconfig.cache
+C:\Users\Jatin Dhiman\OneDrive\Desktop\SplitwiseClone\obj\Debug\net8.0\ref\SplitwiseClone.dll
