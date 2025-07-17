@@ -59,6 +59,7 @@ SplitwiseClone/
 ├── Utils/
 │   └── DebtSimplifier.cs        // Greedy algorithm to simplify debts
 ```
+
 =========== Creating Users ====================
 User created: Aditya (ID: user1)
 User created: Rohit (ID: user2)
@@ -83,7 +84,7 @@ Saurav added to group Hostel Expenses
 =========== Expense Message ====================
 Expense added to Hostel Expenses: Lunch (Rs 800) paid by Aditya
 Involved members:
-Aditya, Rohit, Manish, Saurav, 
+Aditya, Rohit, Manish, Saurav,
 Will be Paid Equally
 
 =========== Sending Notifications ====================
